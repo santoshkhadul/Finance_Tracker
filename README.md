@@ -23,12 +23,6 @@ A simple and elegant desktop application built using **Python**, **CustomTkinter
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots here if you'd like (e.g., income/expense form, pie chart)
-
----
-
 ## 🛠️ Installation
 
 1. **Clone the repository:**
